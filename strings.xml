@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">翻译测试</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="submit">提交</string>
+    <string name="edit">编辑</string>
+    <string name="join">加入</string>
+    <string name="create">创建</string>
+    <string name="tips">提示</string>
+</resources>
