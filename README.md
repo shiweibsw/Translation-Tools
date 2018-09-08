@@ -37,3 +37,6 @@ strings.xls文件（名称不能改）放在xlstoplist.py同级目录下，打�
 
 ## 注意事项
 不要修改strings.xml及strings.xls文件名
+
+windows平台下py脚本打包exe文件命令
+pyinstaller -F -p F:\PythonWorkSpace\Translation-Tools\venv\Lib\site-packages xlstoplist.py
