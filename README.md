@@ -27,5 +27,13 @@ __注意:文档名为strings.xls不能修改__
 
 任务完成！
 
+#### 3 XLS转PLIST
+
+##### Windows平台
+同步骤2
+
+##### Mac平台
+strings.xls文件（名称不能改）放在xlstoplist.py同级目录下，打开python运行环境执行xlstoplist.py即可
+
 ## 注意事项
 不要修改strings.xml及strings.xls文件名
